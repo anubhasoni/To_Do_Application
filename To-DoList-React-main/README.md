@@ -9,11 +9,7 @@ Responsive Design: The application is responsive and works well on desktop and m
 Installation
 To run this project locally, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/anshika2111091/To-DoList-React.git
-Navigate to the project directory: cd react-todo-list
-Install dependencies by running: npm install
-Start the development server: npm start
-Open http://localhost:3000 to view it in your browser.
+
 
 
 Technologies Used
